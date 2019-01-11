@@ -11,7 +11,7 @@ Aujourd'hui je vais vous raconter l'histoire qui liait ces 2 animaux.
 
 Binon Frédéric
 -
-#Le petit Poulet.
+# Le petit Poulet.
 Un petit poulet fut un jour réveillé aux aurores par son père criant ses 
 poumons en se disputant avec le soleil. A peine eu-t-il le temps 
 d'ouvrir les yeux et sortir de sa paille que son regard se porta au 
