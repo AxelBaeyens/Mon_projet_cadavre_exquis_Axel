@@ -6,3 +6,10 @@ Ce porc était l'ami d'un poulet, un poulet assez *spécial* car il n'avait pas 
 mais un bec coupant comme un *couteau*.
 
 Aujourd'hui je vais vous raconter l'histoire qui liait ces 2 animaux.
+
+# Exercice-cadavreExquis-Mina
+
+ J'ai fait un peu de javascript.
+J'ai fait de l'html et du css.
+ Nous allons apprendre le Markdown à travers un exercice. 
+
